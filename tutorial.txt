@@ -24,3 +24,7 @@ $git push
 Criando Branch
 
 $ git branch develop
+
+Realizando merge
+
+$ git merge master
