@@ -25,6 +25,12 @@ Criando Branch
 
 $ git branch develop
 
+
 Mudando de branch
 
 $ git checkout develop
+
+Realizando merge
+
+$ git merge master
+
