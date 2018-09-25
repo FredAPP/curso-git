@@ -21,3 +21,6 @@ Enviando para repositorio remoto
 
 $git push
 
+Criando Branch
+
+$ git branch develop
