@@ -11,3 +11,7 @@ $ git add arquivo.txt
 Commitando 
 
 $ git commit -m 'mensagem'
+
+Adionando repositório remoto
+
+$ git remote add origin url
